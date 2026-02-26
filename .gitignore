@@ -1,0 +1,19 @@
+# Virtual Environment
+ser_env/
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+
+# Temporary files
+temp.wav
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Dataset
+dataset/
