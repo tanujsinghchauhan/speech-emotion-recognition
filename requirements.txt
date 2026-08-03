@@ -14,7 +14,7 @@ soundfile>=0.12.0
 
 # Frontend
 streamlit>=1.30.0
-audiorecorder>=0.1.2
+streamlit-audiorecorder
 # requests>=2.31.0
 matplotlib>=3.7.0
 
